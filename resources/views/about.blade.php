@@ -3,7 +3,7 @@
     <!-- Hero Section -->
     <section class="hero-section">
         <div class="container">
-            <h1>About Salon JC</h1>
+            <h1>About Ruth Men and Women Salon</h1>
             <p>Your Beauty, Our Passion</p>
         </div>
     </section>
@@ -21,8 +21,8 @@
                 <div class="col-md-6">
                     <h2>Our Story</h2>
                     <p>
-                        Founded in 2020, Salon JC has grown from a modest beginning to
-                        become one of the most trusted names in beauty care in Sri Lanka.
+                        Founded in 2025, Ruth Men and Women Salon has grown from a modest beginning to
+                        become one of the most trusted names in beauty care in Ethiopia.
                         Our journey began with a simple vision: to provide exceptional
                         beauty services that make every client feel confident and
                         beautiful.
@@ -35,7 +35,7 @@
                     </p>
                     <h3>Our Vision</h3>
                     <p>
-                        To be the leading beauty salon in Sri Lanka, recognized for our
+                        To be the leading beauty salon in Ethiopia, recognized for our
                         expertise, innovation, and commitment to excellence in beauty
                         care.
                     </p>
@@ -51,8 +51,8 @@
             <div class="row">
                 <!-- Owner/Manager -->
                 <div class="col-md-6 col-lg-3 mb-4">
-                    <div class="team-member">
-                        <img
+                    -member">
+                        <div class="team<img
                             src="{{ asset('assets/img/team/stylist-1.jpg') }}"
                             alt="Chanu Ranasinghe"
                             class="img-fluid rounded-circle mb-3" />

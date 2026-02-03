@@ -7,11 +7,10 @@
             <div
                 class="row h-100 align-items-center justify-content-center">
                 <div class="text-center text-white col-lg-10 hero-content">
-                    <h1 class="mb-3">Welcome to Salon JC</h1>
+                    <h1 class="mb-3">Welcome to Ruth Men and Women Salon</h1>
                     <h2 class="mb-4">Your Premier Beauty Destination</h2>
                     <p class="mb-4 lead">
-                        Experience luxury beauty services with our expert team of professionals.
-                        We provide top-quality salon services that enhance your natural beauty.
+                        Professional beauty and grooming services in Addis Ababa.
                     </p>
                     <div class="mb-5 hero-features">
                         <div class="gap-4 d-flex justify-content-center">
@@ -433,9 +432,9 @@
             <!-- Main About Content -->
             <div class="mb-5 section-title">
                 <span class="subtitle">About Us</span>
-                <h2>Welcome to SalonJC</h2>
+                <h2>Welcome to Ruth Men and Women Salon</h2>
                 <p class="text-light-50">
-                    Your Premier Beauty Destination in Pallawela
+                    Your Premier Beauty Destination in Addis Ababa
                 </p>
             </div>
 
@@ -600,9 +599,9 @@
                             <i class="fas fa-map-marker-alt"></i>
                         </div>
                         <h4>Visit Us</h4>
-                        <p>Kaloliya Rd, Pallawela<br />Sri Lanka</p>
+                        <p>አድራሻ : አቶቢስ ተራ ሸዋ ጸጋ ህንጻ አጠገብ ዘጸአት ህንጻ 2 ፎቅ<br />Addis Ababa, Ethiopia</p>
                         <a
-                            href="https://maps.google.com"
+                            href="https://www.google.com/maps/search/?api=1&query=Autobis+Tera+Shewa+Tsega+Building+Addis+Ababa"
                             target="_blank"
                             class="direction-link">
                             <i class="fas fa-directions me-2"></i>Get
@@ -617,7 +616,7 @@
                             <i class="fas fa-phone-alt"></i>
                         </div>
                         <h4>Call Us</h4>
-                        <p>071 414 7628</p>
+                        <p>0925433255, 0925443255</p>
                         <div class="business-hours">
                             <p class="mb-1">Mon - Sat: 9:00 AM - 8:00 PM</p>
                             <p>Sunday: 10:00 AM - 6:00 PM</p>
@@ -631,17 +630,33 @@
                             <i class="fas fa-envelope"></i>
                         </div>
                         <h4>Email Us</h4>
-                        <p>salonjc2092@gmail.com</p>
+                        <p>info@ruthsalon.com</p>
                         <div class="mt-3 social-links">
                             <a href="#" class="me-3"><i class="fab fa-facebook"></i></a>
                             <a href="#" class="me-3"><i class="fab fa-instagram"></i></a>
-                            <a href="#" class="me-3"><i class="fab fa-tiktok"></i></a>
+                            <a href="https://www.tiktok.com/@ruth_beauty_salon" target="_blank" class="me-3"><i class="fab fa-tiktok"></i></a>
                             <a href="#"><i class="fab fa-whatsapp"></i></a>
                         </div>
                     </div>
                 </div>
 
+            </div>
 
+            <!-- Google Map -->
+            <div class="mt-5 row">
+                <div class="col-12">
+                    <div class="map-container rounded-3 overflow-hidden">
+                        <iframe
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3940.779!2d38.7576!3d9.0257!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x164b85f36e4f3d3%3A0x36c4d1a4a5c5a5a5!2sAutobis%20Tera%20Shewa%20Tsega%20Building!5e0!3m2!1sen!2set!4v1699999999999!5m2!1sen!2set"
+                            width="100%"
+                            height="400"
+                            style="border:0;"
+                            allowfullscreen=""
+                            loading="lazy"
+                            referrerpolicy="no-referrer-when-downgrade">
+                        </iframe>
+                    </div>
+                </div>
             </div>
         </div>
     </section>

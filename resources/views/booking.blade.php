@@ -161,7 +161,7 @@
                     <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
                 </div>
                 <div class="modal-body">
-                    <p>By booking an appointment with SalonJC, you agree to the following terms:</p>
+                    <p>By booking an appointment with Ruth Men and Women Salon, you agree to the following terms:</p>
                     <ul>
                         <li>Please arrive 10 minutes before your scheduled appointment time</li>
                         <li>A 24-hour notice is required for cancellation</li>

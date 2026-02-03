@@ -1,7 +1,7 @@
   <!-- Navigation Bar -->
   <nav class="navbar navbar-expand-lg navbar-light fixed-top">
       <div class="container">
-          <a class="navbar-brand" href="{{ route('home') }}">Salon<span>JC</span></a>
+          <a class="navbar-brand" href="{{ route('home') }}">Ruth <span>Salon</span></a>
           <button
               class="navbar-toggler"
               type="button"

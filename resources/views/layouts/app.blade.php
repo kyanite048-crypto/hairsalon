@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>SalonJC - Beauty Salon</title>
+    <title>Ruth Men and Women Salon - Beauty Salon</title>
 
     <!-- favicon -->
     <link
@@ -60,16 +60,16 @@
             <div class="row">
                 <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
                     <div class="footer-info">
-                        <h5>Salon<span>JC</span></h5>
+                        <h5>Ruth <span>Salon</span></h5>
                         <p class="mt-3">
-                            Your premier beauty destination in Pallawela,
+                            Your premier beauty destination in Addis Ababa,
                             offering professional services and exceptional
                             care since 2025.
                         </p>
                         <div class="social-links mt-4">
                             <a href="#" class="me-3"><i class="fab fa-facebook"></i></a>
                             <a href="#" class="me-3"><i class="fab fa-instagram"></i></a>
-                            <a href="#" class="me-3"><i class="fab fa-tiktok"></i></a>
+                            <a href="https://www.tiktok.com/@ruth_beauty_salon" target="_blank" class="me-3"><i class="fab fa-tiktok"></i></a>
                             <a href="#"><i class="fab fa-whatsapp"></i></a>
                         </div>
                     </div>
@@ -109,15 +109,15 @@
                         <ul class="list-unstyled contact-info mt-3">
                             <li>
                                 <i class="fas fa-map-marker-alt"></i>
-                                <span>Kaloliya Rd, Pallawela, Sri Lanka</span>
+                                <span>አድራሻ : አቶቢስ ተራ ሸዋ ጸጋ ህንጻ አጠገብ ዘጸአት ህንጻ 2 ፎቅ</span>
                             </li>
                             <li>
                                 <i class="fas fa-phone"></i>
-                                <span>071 414 7628</span>
+                                <span>0925433255, 0925443255</span>
                             </li>
                             <li>
                                 <i class="fas fa-envelope"></i>
-                                <span>salonjc2092@gmail.com</span>
+                                <span>info@ruthsalon.com</span>
                             </li>
                         </ul>
                         <div class="business-hours mt-4">
@@ -137,7 +137,7 @@
                     <div class="footer-bottom text-center">
                         <hr class="footer-divider" />
                         <p class="mb-0">
-                            &copy; 2025 SalonJC. All rights reserved.
+                            &copy; 2025 Ruth Men and Women Salon. All rights reserved.
                         </p>
                     </div>
                 </div>
