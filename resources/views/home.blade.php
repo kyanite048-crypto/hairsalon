@@ -7,7 +7,7 @@
             <div
                 class="row h-100 align-items-center justify-content-center">
                 <div class="text-center text-white col-lg-10 hero-content">
-                    <h1 class="mb-3">Welcome to Ruth Men and Women Salon</h1>
+                    <h1 class="mb-3">Welcome to yabsra</h1>
                     <h2 class="mb-4">Your Premier Beauty Destination</h2>
                     <p class="mb-4 lead">
                         Professional beauty and grooming services in Addis Ababa.
@@ -432,7 +432,7 @@
             <!-- Main About Content -->
             <div class="mb-5 section-title">
                 <span class="subtitle">About Us</span>
-                <h2>Welcome to Ruth Men and Women Salon</h2>
+                <h2>Welcome to yabsra</h2>
                 <p class="text-light-50">
                     Your Premier Beauty Destination in Addis Ababa
                 </p>

@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Ruth Men and Women Salon - Beauty Salon</title>
+    <title>yabsra - Beauty Salon</title>
 
     <!-- favicon -->
     <link
@@ -60,7 +60,7 @@
             <div class="row">
                 <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
                     <div class="footer-info">
-                        <h5>Ruth <span>Salon</span></h5>
+                        <h5>yabsra</h5>
                         <p class="mt-3">
                             Your premier beauty destination in Addis Ababa,
                             offering professional services and exceptional
@@ -137,7 +137,7 @@
                     <div class="footer-bottom text-center">
                         <hr class="footer-divider" />
                         <p class="mb-0">
-                            &copy; 2025 Ruth Men and Women Salon. All rights reserved.
+                            &copy; 2025 yabsra. All rights reserved.
                         </p>
                     </div>
                 </div>

@@ -3,7 +3,7 @@
         <button class="btn btn-link sidebar-toggle d-md-none">
             <i class="fas fa-bars"></i>
         </button>
-        <a class="navbar-brand" href="{{ route('admin.dashboard') }}">Ruth Salon Admin</a>
+        <a class="navbar-brand" href="{{ route('admin.dashboard') }}">yabsra Admin</a>
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ms-auto">

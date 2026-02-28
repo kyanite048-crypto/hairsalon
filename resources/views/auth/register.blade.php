@@ -25,12 +25,12 @@
         <div class="container">
             <div class="auth-card">
                 <div class="logo">
-                    <h2>Ruth <span>Salon</span></h2>
+                    <h2>yabsra</h2>
                 </div>
 
                 <div class="auth-header">
                     <h1>Create Account</h1>
-                    <p>Join Ruth Men and Women Salon to book your appointments</p>
+                    <p>Join yabsra to book your appointments</p>
                 </div>
 
                 <form method="POST" action="{{ route('register') }}">

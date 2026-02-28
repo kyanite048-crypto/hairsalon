@@ -150,7 +150,7 @@
     <nav class="sidenav">
         <div class="sidenav-header">
             <a href="{{ route('admin.dashboard') }}" class="sidenav-brand"> <i class="fas fa-spa me-2" style="color: #D4AF37;"></i>
-                <span style="color: #D4AF37;">Ruth Salon</span> Admin
+                <span style="color: #D4AF37;">yabsra</span> Admin
             </a>
         </div>
         <ul class="mt-4 nav flex-column">

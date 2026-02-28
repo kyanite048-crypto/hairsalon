@@ -3,7 +3,7 @@
     <!-- Hero Section -->
     <section class="hero-section">
         <div class="container">
-            <h1>About Ruth Men and Women Salon</h1>
+            <h1>About yabsra</h1>
             <p>Your Beauty, Our Passion</p>
         </div>
     </section>
@@ -21,7 +21,7 @@
                 <div class="col-md-6">
                     <h2>Our Story</h2>
                     <p>
-                        Founded in 2025, Ruth Men and Women Salon has grown from a modest beginning to
+                        Founded in 2025, yabsra has grown from a modest beginning to
                         become one of the most trusted names in beauty care in Ethiopia.
                         Our journey began with a simple vision: to provide exceptional
                         beauty services that make every client feel confident and

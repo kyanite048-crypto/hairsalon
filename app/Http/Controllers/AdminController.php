@@ -40,7 +40,7 @@ class AdminController extends Controller
             ->selectRaw('COUNT(bookings.id) as bookings_count')
             ->selectRaw('SUM(CASE WHEN bookings.payment_status = "paid" THEN bookings.total_price ELSE 0 END) as revenue')
             ->leftJoin('bookings', 'services.id', '=', 'bookings.service_id')
-            ->groupBy('services.id')
+            ->groupBy('services.id', 'services.name', 'services.category_id', 'services.price', 'services.duration', 'services.description', 'services.features', 'services.status', 'services.created_at', 'services.updated_at')
             ->orderByDesc('bookings_count')
             ->take(5)
             ->get();
